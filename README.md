@@ -46,9 +46,3 @@ Como Funciona:
 
     Resultado Final:
         O usuário recebe um link para a playlist no YouTube, pronta para ser ouvida e compartilhada.
-
-Benefícios:
-
-    Economia de Tempo: Automatiza o processo de busca e curadoria de músicas.
-    Facilidade de Uso: Interface intuitiva e processo simplificado.
-    Playlists Personalizadas: Criação de playlists de alta qualidade com base nas preferências do usuário.
